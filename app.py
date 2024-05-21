@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 
-loaded_model = joblib.load('C:/Users/niran/Documents/VS Code/Python/Heart Disease Prediction Model/heart_disease_prediction_model.pkl')
+loaded_model = joblib.load('heart_disease_prediction_model.pkl')
 features = ['age',
     'sex',
     'chest pain type',
