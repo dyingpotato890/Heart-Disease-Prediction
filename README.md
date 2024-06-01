@@ -39,6 +39,10 @@ Heart disease is one of the leading causes of death globally. Early prediction a
    ```bash
    pip install -r requirements.txt
    ```
+OR
+
+1. Please visit the following link to use the model through a simple user interface:
+   [Make Predictions](https://heart-disease-prediction-dyingpotato890.streamlit.app/)
 
 ## Usage
 
